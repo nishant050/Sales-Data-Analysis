@@ -23,16 +23,6 @@ For more detials, refer: <code>[Data Analyst Roadmap](https://github.com/mrankit
 
 * <a href="https://github.com/mrankitgupta/Statistics-for-Data-Science-using-Python">Statistics</a><a href="https://github.com/mrankitgupta/Statistics-for-Data-Science-using-Python" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/mrankitgupta/66DaysOfData/c8c040f1c85d921db317152567f331354446286a/statistics-21.svg" alt="Statistics" width="25" height="25"/> </a>
 
-<h2 align="left">Certifications 📜 🎓 ✔️</h2>
-
-- [Data Visualization with Tableau](https://www.simplilearn.com/skillup-certificate-landing?token=eyJjb3Vyc2VfaWQiOiI3OTUiLCJjZXJ0aWZpY2F0ZV91cmwiOiJodHRwczpcL1wvY2VydGlmaWNhdGVzLnNpbXBsaWNkbi5uZXRcL3NoYXJlXC90aHVtYl8zMzkyNjI4XzE2NTAxMTE0NzcucG5nIiwidXNlcm5hbWUiOiJBbmtpdCBHdXB0YSJ9&utm_source=shared-certificate&utm_medium=lms&utm_campaign=shared-certificate-promotion) - by Simplilearn
-  
-- [Databases and SQL for Data Science with Python](https://github.com/mrankitgupta) - by IBM
-
-- [Statistics for Data Science with Python](https://www.credly.com/badges/354576a0-b672-4245-8cad-82dc3f3df76f/public_url) - by IBM
-
-- [Data Visualization with Advanced Excel](https://www.coursera.org/account/accomplishments/certificate/CY9V466RB36R) - by PWC
-
 ## Project - India based Hardware company Sales Insights - Data Analysis performed on Tableau & SQL
   
 ### [Tableau Dashboard Link](https://public.tableau.com/views/SalesInsights-DataAnalysisProject/Dashboard-RevenueAnalysis?:language=en-US&:display_count=n&:origin=viz_share_link) <a href="https://public.tableau.com/views/SalesInsights-DataAnalysisProject/Dashboard-RevenueAnalysis?:language=en-US&:display_count=n&:origin=viz_share_link" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/mrankitgupta/mrankitgupta/a768d6bf0a001f03327578ae12f8867e4056cbaf/tableau-software.svg" alt="tableau" width="40" height="20"/> </a>  🔗
@@ -166,12 +156,9 @@ Step 5: Save the file as (.twb or .twbx)
 
 ## For any queries/doubts 🔗 👇 
 
-### [Ankit Gupta](https://bio.link/AnkitGupta)
-<p align="left"> <a href="https://twitter.com/MrAnkitGupta_/" target="blank"><img src="https://img.shields.io/twitter/follow/MrAnkitGupta_?logo=twitter&style=for-the-badge" alt="MrAnkitGupta_" /></a> </p>
+### [Nishant Bagoria]
 
-<a href="https://www.linkedin.com/in/mrankitgupta" target="blank"><img align="center" src="https://img.shields.io/badge/-MrAnkitGupta-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mrankitgupta/" alt="MrAnkitGupta" height="20" width="100" /></a>
-<a href="https://www.instagram.com/MrAnkitGupta_" target="blank"><img align="center" src="https://img.shields.io/badge/-@MrAnkitGupta_-D7008A?style=flat-square&labelColor=D7008A&logo=Instagram&logoColor=white&link=https://www.instagram.com/MrAnkitGupta_" alt="MrAnkitGupta_" height="20" width="110" /></a>
-<a href="https://bio.link/AnkitGupta" target="blank"><img align="center" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white&link=https://bio.link/AnkitGupta" alt="AnkitGupta" height="20" width="90" /></a>
-<a href="https://github.com/mrankitgupta/" target="blank"><img align="center" src="https://img.shields.io/github/followers/mrankitgupta?label=Follow&style=social&link=https://github.com/mrankitgupta/" alt="MrAnkitGupta" height="20" width="90" /></a>
+<a href="https://www.linkedin.com/in/nishant050/" target="blank"><img align="center" src="https://img.shields.io/badge/-MrNishant-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nishant050/" alt="Mr.Nishant" height="20" width="100" /></a>
+
 
   
