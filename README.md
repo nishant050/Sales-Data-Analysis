@@ -141,19 +141,6 @@ Step 5: Save the file as (.twb or .twbx)
 |5| OLTP & OLAP | [Geeks for Geeks](https://www.geeksforgeeks.org/difference-between-olap-and-oltp-in-dbms/) | 
 |6| Star Schema: Fact Table & Dimension Table | [Microsoft docs.](https://docs.microsoft.com/en-us/power-bi/guidance/star-schema) | 
   
-## Related Projects:question: 👨‍💻 🛰️
-
-<code>[Spotify Data Analysis using Python](https://github.com/mrankitgupta/Spotify-Data-Analysis-using-Python)</code> 📊
-
-<code>[Statistics for Data Science using Python](https://github.com/mrankitgupta/Statistics-for-Data-Science-using-Python)</code> 📊
- 
-<code>[Python Lessons](https://github.com/mrankitgupta/PythonLessons)</code> 📑
-
-<code>[Python Libraries for Data Science](https://github.com/mrankitgupta/PythonLibraries)</code> 🗂️
-  
-  
-### Liked my Contributions:question:[Follow Me](https://github.com/mrankitgupta/):point_right: [Nominate Me for GitHub Stars](https://stars.github.com/nominate/) :star: :sparkles:
-
 ## For any queries/doubts 🔗 👇 
 
 ### [Nishant Bagoria]
